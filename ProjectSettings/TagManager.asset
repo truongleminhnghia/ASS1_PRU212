@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - GUI
+  - Audio
+  - Bullet
+  - Projectile
+  - Coin
+  - Asteroid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Asteroid
+  - 
+  - Enemy
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 307200917
+    locked: 0
+  - name: Forceground
+    uniqueID: 3683887757
+    locked: 0
+  - name: BG Middle
+    uniqueID: 562640461
+    locked: 0
+  - name: BG Front
+    uniqueID: 4084465901
+    locked: 0
+  - name: Flame
+    uniqueID: 3027791379
+    locked: 0
+  - name: Player
+    uniqueID: 2300944141
+    locked: 0
+  - name: UI
+    uniqueID: 2132475391
+    locked: 0
+  m_RenderingLayers:
+  - Default
